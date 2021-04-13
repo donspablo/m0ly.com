@@ -1,7 +1,7 @@
 ---
-title: 'm0ly.com: A don Federation Company'
+title: 'Moly.com: A don Federation Company'
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "m0ly.com is under construction."
+description: "This website is under construction."
 ---
 
-Welcome to the new home of m0ly.com, please bookmark this website and check back in a couple of days. The website is still under construction but it should be completed soon.
+Welcome to the new home of Moly.com, please bookmark this website and check back in a couple of days. The website is still under construction but it should be completed soon.
